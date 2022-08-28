@@ -10,9 +10,9 @@ export default function App() {
   const colors = [
     "#25AFF5",
     "#f26d8c",
-    "#C1B3FF",
+    "#675AB7",
     "#71EFA3",
-    "#FFC996",
+    "#B7744B",
   ]
 
   useEffect(() => {
